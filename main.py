@@ -44,8 +44,6 @@ while turns > 0:
             # for every failure 1 will be
             # incremented in failure
             failed += 1
-
-
     if failed == 0:
         # user will win the game if failure is 0
         # and 'You Win' will be given as output
